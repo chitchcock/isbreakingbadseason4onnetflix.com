@@ -1,0 +1,3 @@
+[submodule "is_seasonx_on_netflix"]
+	path = is_seasonx_on_netflix
+	url = git://github.com/chitchcock/is_seasonx_on_netflix
